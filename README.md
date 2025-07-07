@@ -2,7 +2,7 @@
 
 > "Transforming streams of raw data into intelligent, scalable, real-world AI systems — from face masks to financial markets, from Kafka to Kubernetes."
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ML+Engineer+%7C+Data+Scientist+%7C+AI+Researcher+%7C+Creative+Technologist" alt="Typing SVG" />
 </p>
 
