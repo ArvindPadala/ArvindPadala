@@ -45,7 +45,6 @@
 
 - 🤖 "Human Activity Recognition Using CNNs and LSTMs" – *Presented @ ICICCI-21*  
 - 🧠 [Transformer Deep Dive Blog](https://arvindchary.io) – *433+ reads, top 3 trending in Deep Learning*  
-- 💡 Creator of 6+ in-depth blog posts on MLOps, Vision, NLP, Forecasting, and AI Trends
 
 ---
 
@@ -79,7 +78,7 @@
 
 - 🌐 [Portfolio Website](https://arvindchary.io)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arvindcharypadala/)
-- ✍️ [Medium Blog](https://medium.com/@arvindchary)
+- ✍️ [Medium Blog](https://medium.com/@padalaarvindchary1)
 - 📬 padalaarvindchary@gmail.com  
 - 📞 +1 (848) 668-3934
 
