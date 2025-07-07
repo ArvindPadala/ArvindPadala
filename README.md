@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Arvind Chary Padala ⚡ AI Storyteller | ML Engineer | Data Alchemist</h1>
 
 > "Transforming streams of raw data into intelligent, scalable, real-world AI systems — from face masks to financial markets, from Kafka to Kubernetes."
@@ -83,5 +82,4 @@
 - 📞 +1 (848) 668-3934
 
 > “I don’t just deploy models — I tell stories through them.”
-```
 
