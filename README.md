@@ -86,6 +86,54 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="50%">
+        <div style="background: linear-gradient(45deg, #FF6B6B, #FF8E53); padding: 20px; border-radius: 15px; margin: 10px;">
+          <b>🤖 RAG-Powered Knowledge Assistant</b><br/>
+          <em>Retrieval-Augmented Generation with vector embeddings</em><br/>
+          <span style="color: #FFD700;">🔥 Trending: RAG Architecture</span>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <div style="background: linear-gradient(45deg, #4ECDC4, #44A08D); padding: 20px; border-radius: 15px; margin: 10px;">
+          <b>🎨 Multimodal AI Image Generator</b><br/>
+          <em>Stable Diffusion + ControlNet for precise image generation</em><br/>
+          <span style="color: #FFD700;">🎯 State-of-the-art GenAI</span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <div style="background: linear-gradient(45deg, #A8E6CF, #7FCDCD); padding: 20px; border-radius: 15px; margin: 10px;">
+          <b>🔬 MLOps Pipeline with MLflow</b><br/>
+          <em>End-to-end ML lifecycle management with experiment tracking</em><br/>
+          <span style="color: #FFD700;">⚡ Production-ready ML</span>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <div style="background: linear-gradient(45deg, #FF9A9E, #FECFEF); padding: 20px; border-radius: 15px; margin: 10px;">
+          <b>🧬 Federated Learning Framework</b><br/>
+          <em>Privacy-preserving ML across distributed datasets</em><br/>
+          <span style="color: #FFD700;">🔒 Privacy-first AI</span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 20px; border-radius: 15px; margin: 10px;">
+          <b>📊 Real-time Anomaly Detection</b><br/>
+          <em>Isolation Forest + LSTM for streaming data monitoring</em><br/>
+          <span style="color: #FFD700;">🚨 Enterprise-grade monitoring</span>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <div style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 20px; border-radius: 15px; margin: 10px;">
+          <b>🎯 AutoML Platform</b><br/>
+          <em>Automated hyperparameter tuning with Optuna + Ray</em><br/>
+          <span style="color: #FFD700;">🤖 Self-optimizing models</span>
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
 
