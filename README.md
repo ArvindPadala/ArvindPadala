@@ -19,7 +19,7 @@
 
 <div align="center">
   <blockquote>
-    <em>"🎭 Transforming streams of raw data into intelligent, scalable, real-world AI systems — from face masks to financial markets, from Kafka to Kubernetes. Every dataset has a story, and I'm here to tell it."</em>
+    <em>"🎭 Transforming streams of raw data into intelligent, scalable, real-world AI systems from face masks to financial markets, from Kafka to Kubernetes. Every dataset has a story, and I'm here to tell it."</em>
   </blockquote>
 </div>
 
