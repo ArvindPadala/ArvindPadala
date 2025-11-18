@@ -61,76 +61,140 @@ My work spans from building enterprise-grade MLOps infrastructure to developing 
 
 ## Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(45deg, #2563eb, #1e40af); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-          <b>🔍 Transformer-Based Semantic Recommendation Engine</b><br/>
-          <em>DistilBERT, Sentence-BERT, FAISS, RAG</em><br/>
-          <span style="color: #fbbf24;">✨ 61% accuracy, top 3 retrieval precision</span><br/>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">DistilBERT</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">FAISS</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">RAG</code>
-        </div>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(45deg, #7c3aed, #5b21b6); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-          <b>⚡ Distributed Predictive Maintenance System</b><br/>
-          <em>LSTM, AWS EMR, Kafka, Spark Streaming</em><br/>
-          <span style="color: #fbbf24;">🎯 95% F1-score, real-time processing</span><br/>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Kafka</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">MLflow</code>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(45deg, #059669, #047857); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-          <b>📈 Hybrid Trading Strategy Innovator</b><br/>
-          <em>LSTM + Technical Indicators, Backtesting</em><br/>
-          <span style="color: #fbbf24;">💰 196.82% BTC returns, 163.88% COCOA</span><br/>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">TA-lib</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Streamlit</code>
-        </div>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(45deg, #dc2626, #991b1b); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-          <b>🤖 Human Activity Recognition</b><br/>
-          <em>CNN, RNN, LSTM, Time Series</em><br/>
-          <span style="color: #fbbf24;">🚀 78% → 92% accuracy improvement</span><br/>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">TensorFlow</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">LSTM</code>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(45deg, #ea580c, #c2410c); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-          <b>🔬 MLOps Pipeline with MLflow</b><br/>
-          <em>End-to-end ML lifecycle management</em><br/>
-          <span style="color: #fbbf24;">⚡ Production-ready ML infrastructure</span><br/>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">MLflow</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Docker</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Kubernetes</code>
-        </div>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(45deg, #0891b2, #0e7490); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-          <b>📊 Real-time Anomaly Detection</b><br/>
-          <em>Isolation Forest + LSTM for streaming data</em><br/>
-          <span style="color: #fbbf24;">🚨 Enterprise-grade monitoring</span><br/>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Kafka</code>
-          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Spark</code>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🤖 AI & Machine Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**LostSight**  
+*AI-based Lost Item Detection System*  
+Computer vision system using Moondream for real-time object detection on NYC street feeds. Built with Python, OpenCV, and Streamlit.
+
+**Technologies:** `Python` `OpenCV` `Moondream` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+**RAG-Powered Knowledge Assistant**  
+*Retrieval-Augmented Generation System*  
+Enterprise-grade RAG system with vector embeddings for intelligent document retrieval and question answering.
+
+**Technologies:** `Transformers` `Vector DB` `FastAPI` `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Multimodal AI Image Generator**  
+*Stable Diffusion + ControlNet*  
+Advanced image generation system with precise control over output characteristics using state-of-the-art generative AI.
+
+**Technologies:** `PyTorch` `Stable Diffusion` `ControlNet` `Gradio`
+
+</td>
+<td width="50%" valign="top">
+
+**Hybrid Trading Strategy**  
+*LSTM + Technical Indicators*  
+Deep learning trading system combining LSTM networks with technical analysis, achieving 2x ROI on Bitcoin trading.
+
+**Technologies:** `PyTorch` `TA-lib` `Pandas` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+### 🚀 Production Systems & MLOps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**MLOps Pipeline with MLflow**  
+*End-to-End ML Lifecycle Management*  
+Complete MLOps infrastructure with experiment tracking, model versioning, and automated deployment pipelines.
+
+**Technologies:** `MLflow` `Docker` `Kubernetes` `CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+**ML Deployment Platform**  
+*Kubernetes-Based Model Serving*  
+Scalable model serving platform with auto-scaling, monitoring, and A/B testing capabilities.
+
+**Technologies:** `Kubernetes` `Docker` `Flask` `Prometheus` `Grafana`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Real-time Anomaly Detection**  
+*Streaming Data Monitoring*  
+Enterprise-grade anomaly detection system using Isolation Forest and LSTM for real-time data streams.
+
+**Technologies:** `PyTorch` `Kafka` `Apache Spark` `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+**Airflow ETL Pipeline**  
+*Large-Scale Data Processing*  
+Production ETL pipeline processing 1TB/day with Apache Spark, Kafka, and Airflow orchestration.
+
+**Technologies:** `Apache Spark` `Kafka` `Airflow` `AWS` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+### 💡 NLP & LLM Applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Sentiment Analysis API**  
+*BERT-Powered NLP Service*  
+High-performance sentiment analysis API handling 10k+ requests/minute with Redis caching and FastAPI.
+
+**Technologies:** `Transformers` `FastAPI` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**Movie Recommendation Engine**  
+*Semantic Search with Sentence-BERT*  
+Personalized recommendation system using Sentence-BERT embeddings and FAISS for efficient similarity search.
+
+**Technologies:** `Sentence-BERT` `FAISS` `Flask` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Tokenizer Visualizer**  
+*Interactive Tokenization Playground*  
+Educational tool for exploring BPE, WordPiece, and SentencePiece tokenization algorithms interactively.
+
+**Technologies:** `Python` `Streamlit` `Transformers`
+
+</td>
+<td width="50%" valign="top">
+
+**Prompt Engineering Playground**  
+*LLM Prompt Testing & Comparison*  
+A/B testing platform for comparing LLM prompt outputs side-by-side with performance metrics.
+
+**Technologies:** `OpenAI API` `LangChain` `Streamlit` `Pandas`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -164,12 +228,12 @@ My work spans from building enterprise-grade MLOps infrastructure to developing 
 
 ## Certifications
 
-<div align="center">
+<div align="left">
 
-![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20(DP--100)-0078D4?style=for-the-badge&logo=microsoft)
-![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)
-![Oracle Cloud Infrastructure 2025 Generative AI Professional](https://img.shields.io/badge/Oracle-Generic%20AI%20Professional-F80000?style=for-the-badge&logo=oracle)
-![Applied Statistics for Machine Learning - SAS](https://img.shields.io/badge/SAS-Applied%20Statistics%20for%20ML-0078D4?style=for-the-badge&logo=sas)
+- **Microsoft Certified: Azure Data Scientist Associate** (DP-100) - *Microsoft Azure*
+- **AWS Certified AI Practitioner** - *Amazon Web Services*
+- **Oracle Cloud Infrastructure 2025 Generative AI Professional** - *Oracle*
+- **Applied Statistics for Machine Learning** - *SAS*
 
 </div>
 
@@ -182,19 +246,6 @@ My work spans from building enterprise-grade MLOps infrastructure to developing 
 - **Rookie of the Quarter 2022** | Infosys Limited
 - **Research Publication** | Human Activity Recognition Using CNNs and LSTMs - Presented at ICICCI-21
 - **Technical Blog** | Transformer Architecture Deep Dive - 433+ reads, top 3 trending in Deep Learning
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvindPadala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&text_color=FFFFFF&icon_color=2563eb&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindPadala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvindPadala&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakNum=FFFFFF&currStreakLabel=2563eb&sideNums=FFFFFF&sideLabels=2563eb&dates=FFFFFF" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -215,8 +266,3 @@ My work spans from building enterprise-grade MLOps infrastructure to developing 
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArvindPadala&theme=tokyonight" alt="Profile Details" />
-</div>
