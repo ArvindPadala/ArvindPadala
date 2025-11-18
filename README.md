@@ -24,9 +24,13 @@
 
 ## About
 
-Data Scientist and Machine Learning Engineer with expertise in building scalable AI systems, predictive analytics, and production-ready MLOps pipelines. Currently pursuing an M.S. in Statistics - Data Science at Rutgers University (GPA: 3.7/4.0) with 2+ years of professional experience in data engineering and quality assurance. Specialized in time-series forecasting, predictive maintenance, anomaly detection, and distributed ML systems.
+Passionate Data Scientist and Machine Learning Engineer with a Master's in Statistics - Data Science from Rutgers University (GPA: 3.7/4.0) and 2+ years of professional experience transforming complex data into actionable intelligence. I specialize in architecting scalable AI systems that bridge the gap between research and production, with proven expertise in predictive analytics, time-series forecasting, and distributed machine learning pipelines.
 
-**Research Interests:** Time-Series Analysis, Physics-Informed ML, Energy Systems Analytics, Large Language Models, Computer Vision
+My work spans from building enterprise-grade MLOps infrastructure to developing cutting-edge models for predictive maintenance, anomaly detection, and semantic recommendation systems. I thrive on solving complex problems at the intersection of statistics, machine learning, and software engineering—turning theoretical insights into production-ready solutions that drive real business value.
+
+**Currently seeking full-time opportunities** in Data Science, Machine Learning Engineering, and AI Research roles where I can contribute to innovative projects and continue growing as a technical leader.
+
+**Core Expertise:** Time-Series Forecasting | Predictive Maintenance | Anomaly Detection | Distributed ML Systems | MLOps | Large Language Models | Computer Vision
 
 ---
 
@@ -49,7 +53,7 @@ Data Scientist and Machine Learning Engineer with expertise in building scalable
 
 **Master of Science (M.S.) - Statistics - Data Science**  
 *Rutgers, The State University of New Jersey* | New Brunswick, NJ | Sep 2023 - Oct 2025  
-**GPA:** 3.7/4.0
+**GPA:** 3.7/4.0 | *Completed*
 
 **Relevant Coursework:** Data Mining, Natural Language Processing, Artificial Intelligence, Advanced Data Management, Data Wrangling, Regression and Time Series, Statistical Models and Computing, Algorithmic Trading, Statistical Analysis, Predictive Modeling
 
@@ -57,50 +61,76 @@ Data Scientist and Machine Learning Engineer with expertise in building scalable
 
 ## Featured Projects
 
-### Transformer-Based Semantic Recommendation Engine
-*DistilBERT, Sentence-BERT, FAISS, RAG, Docker* | [GitHub](https://github.com/ArvindPadala)
-
-- Engineered a DistilBERT and Sentence-BERT recommendation system, achieving **61% accuracy** and outperforming baseline models
-- Built scalable semantic matching pipeline with Sentence-BERT embeddings and FAISS indexing, achieving **top 3 retrieval precision** exceeding TF-IDF baselines
-- Implemented RAG architecture for enhanced context-aware recommendations
-
-**Technologies:** `DistilBERT` `Sentence-BERT` `FAISS` `RAG` `Docker` `Python`
-
----
-
-### Distributed Predictive Maintenance System for Power Generation Assets
-*Time Series, LSTM, AWS EMR, S3, Kafka, Spark Streaming* | [GitHub](https://github.com/ArvindPadala)
-
-- Engineered scalable, end-to-end predictive maintenance system leveraging Kafka and Spark Streaming to process real-time time-series data on distributed platform
-- Developed and deployed Autoencoder-based anomaly detection model using PyTorch and TensorFlow, achieving **95% F1-score**
-- Utilized AWS EMR and S3 for efficient historical data management
-- Built Streamlit dashboard for dynamic visualization and interpretation of results, providing actionable insights for maintenance planning
-- Production implementation using MLflow, Docker, and Kubernetes
-
-**Technologies:** `PyTorch` `TensorFlow` `Kafka` `Apache Spark` `AWS EMR` `S3` `MLflow` `Docker` `Kubernetes` `Streamlit`
-
----
-
-### Hybrid Trading Strategy Innovator
-*LSTM, Technical Indicators, Backtesting, Predictive Modeling* | [GitHub](https://github.com/ArvindPadala)
-
-- Designed hybrid trading strategy combining LSTM-based predictions with technical indicators (SMA, RSI, ATR)
-- Achieved portfolio returns of nearly **2x (BTC: 196.82%)** and **1.6x (COCOA: 163.88%)** compared to traditional strategies
-- Implemented comprehensive backtesting framework for strategy validation
-
-**Technologies:** `PyTorch` `LSTM` `TA-lib` `Pandas` `NumPy` `Streamlit` `Backtesting`
-
----
-
-### Human Activity Recognition
-*CNN, RNN, LSTM, Time Series* | [GitHub](https://github.com/ArvindPadala)
-
-- Engineered Human Activity Recognition system using smartphone accelerometer and gyroscope data
-- Applied RNN-LSTM architecture to classify multivariate time-series signals
-- Improved accuracy from **78% to 92%** through advanced deep learning techniques
-- Presented research at ICICCI-21 conference
-
-**Technologies:** `PyTorch` `TensorFlow` `CNN` `RNN` `LSTM` `Time Series Analysis`
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <div style="background: linear-gradient(45deg, #2563eb, #1e40af); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
+          <b>🔍 Transformer-Based Semantic Recommendation Engine</b><br/>
+          <em>DistilBERT, Sentence-BERT, FAISS, RAG</em><br/>
+          <span style="color: #fbbf24;">✨ 61% accuracy, top 3 retrieval precision</span><br/>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">DistilBERT</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">FAISS</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">RAG</code>
+        </div>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <div style="background: linear-gradient(45deg, #7c3aed, #5b21b6); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
+          <b>⚡ Distributed Predictive Maintenance System</b><br/>
+          <em>LSTM, AWS EMR, Kafka, Spark Streaming</em><br/>
+          <span style="color: #fbbf24;">🎯 95% F1-score, real-time processing</span><br/>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Kafka</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">MLflow</code>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <div style="background: linear-gradient(45deg, #059669, #047857); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
+          <b>📈 Hybrid Trading Strategy Innovator</b><br/>
+          <em>LSTM + Technical Indicators, Backtesting</em><br/>
+          <span style="color: #fbbf24;">💰 196.82% BTC returns, 163.88% COCOA</span><br/>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">TA-lib</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Streamlit</code>
+        </div>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <div style="background: linear-gradient(45deg, #dc2626, #991b1b); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
+          <b>🤖 Human Activity Recognition</b><br/>
+          <em>CNN, RNN, LSTM, Time Series</em><br/>
+          <span style="color: #fbbf24;">🚀 78% → 92% accuracy improvement</span><br/>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">TensorFlow</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">LSTM</code>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <div style="background: linear-gradient(45deg, #ea580c, #c2410c); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
+          <b>🔬 MLOps Pipeline with MLflow</b><br/>
+          <em>End-to-end ML lifecycle management</em><br/>
+          <span style="color: #fbbf24;">⚡ Production-ready ML infrastructure</span><br/>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">MLflow</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Docker</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Kubernetes</code>
+        </div>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <div style="background: linear-gradient(45deg, #0891b2, #0e7490); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
+          <b>📊 Real-time Anomaly Detection</b><br/>
+          <em>Isolation Forest + LSTM for streaming data</em><br/>
+          <span style="color: #fbbf24;">🚨 Enterprise-grade monitoring</span><br/>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">PyTorch</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Kafka</code>
+          <code style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 4px; margin: 2px;">Spark</code>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
